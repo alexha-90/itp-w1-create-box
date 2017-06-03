@@ -29,4 +29,3 @@ class TestCreateBox(unittest.TestCase):
     def test_third_box(self):
         self.assertEqual(create_box(3, 24 , 'x'), third_box_expected)
         
-        ftghfghffgh
